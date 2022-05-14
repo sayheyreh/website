@@ -1,0 +1,12 @@
+.header {
+    background-color: #DEB6AB;
+    overflow: hidden;
+    height: 100vh;
+    text-align: center;
+    font-size: 10rem;
+    color: white;
+}
+
+iframe {
+    border-radius: 3%;
+}

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.container {
+    width: auto;
+    background-color: #e9d5da;
+    color: #363062;
+    overflow: hidden;
+    font-size: 2.3rem;
+    font-family: 'Indie Flower', cursive;
+    padding: 1.5rem 1rem;
+}
+
+.name {
+    padding-left: 1rem;
+}
+
+.container a{
+    text-decoration: none;
+    padding: 1.5rem 1rem;
+    text-align: center;
+}
+
+.container a:hover {
+    color: white;
+    background-color: #e095a8;
+}
+
+.split .right {
+    float: right;
+}
+.split .left {
+    float: left;
+}
